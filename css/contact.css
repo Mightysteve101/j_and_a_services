@@ -304,8 +304,8 @@
         align-items: center;
         width: 2.5rem;
         height: 2.5rem;
-        border: 1px solid var(--secondary);
         border-radius: 50%;
+        background-color: #484848;
         transition:
             background-color 0.3s,
             transform 0.3s;
