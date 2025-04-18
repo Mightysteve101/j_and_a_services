@@ -293,7 +293,7 @@
   }
   #content-1450 .cs-text {
     /* 16px - 20px */
-    font-size: clamp(1rem, 2vw, 1.25rem);
+    /***font-size: clamp(1rem, 2vw, 1.25rem);****/
     margin: 0 0 2rem 0;
   }
   #content-1450 .cs-button-solid {
